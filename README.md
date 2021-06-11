@@ -37,7 +37,19 @@ CWR - это западный стандарт обмена авторскими
 * Коды территории: TIS (расширение стандарта ISO 3166-1)
 * Коды диалентов языков: ISO-639-2
 
+Кодификация сущностей, используемых в стандарте CWR, выполнена на основании кодов:
+* ISWC (International Standard Work Code)
+* IPI (Interested Party Identifier) (Бывший CAE)
+* ISNI (International Standard Name Identifier)
+* ISRC (Internatioanl Standard Recording Code)
+* Sender Work Code (Произвольный уникальный код отправителя)
+* Sender Catalogue Code (Каталожный код отправителя)
+
+Кроме указанных допустимо сопровождение данных и другими вспомогательными кодами (UPC,EAN,GRID и т.п)
+
 Данных о смежных правах в стандарте CWR нет! Только авторские!
 Передача исходника (source material) в CWR не предусмотрена - только метаданные по авторским правам!
+
+Дополнительные комментарии и особенности CWR - в файле cwr-rus.pdf
 
 *Artix*
